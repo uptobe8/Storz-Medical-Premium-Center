@@ -1,0 +1,33 @@
+HOJA DE SEGUIMIENTO DEL PACIENTE
+
+Paciente:
+Indicación:
+Fecha inicio:
+Profesional responsable:
+
+Evaluación basal:
+Dolor:
+Función:
+Limitación principal:
+Expectativas explicadas:
+
+Sesión 1:
+Fecha:
+Parámetros:
+Tolerancia:
+Respuesta:
+Indicaciones:
+
+Sesión intermedia:
+Fecha:
+Dolor actual:
+Función actual:
+Adherencia:
+Incidencias:
+Decisión clínica:
+
+Cierre / revisión:
+Fecha:
+Resultado clínico:
+Próximos pasos:
+Alta / mantenimiento / cambio de abordaje / derivación:

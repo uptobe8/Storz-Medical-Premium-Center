@@ -1,0 +1,41 @@
+PROTOCOLO CLÍNICO — ONDAS DE CHOQUE
+
+1. Identificación
+Paciente:
+Historia clínica:
+Especialidad:
+Indicación:
+Profesional responsable:
+Fecha de inicio:
+
+2. Evaluación inicial
+Diagnóstico confirmado:
+Pruebas complementarias revisadas:
+Dolor basal / escala funcional:
+Objetivo terapéutico:
+Contraindicaciones revisadas:
+Consentimiento informado firmado:
+
+3. Plan de tratamiento
+Modalidad utilizada:
+Zona anatómica:
+Criterio de selección:
+Número de sesiones previsto:
+Revisión intermedia:
+Combinaciones terapéuticas:
+
+4. Registro por sesión
+Fecha:
+Zona tratada:
+Parámetros registrados:
+Tolerancia:
+Respuesta inmediata:
+Incidencias:
+Indicaciones al paciente:
+
+5. Seguimiento
+Evolución del dolor:
+Evolución funcional:
+Adherencia:
+Decisión clínica:
+Continuar / modificar / pausar / finalizar:

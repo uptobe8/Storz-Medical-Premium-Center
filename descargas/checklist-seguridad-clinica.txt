@@ -1,0 +1,16 @@
+CHECKLIST DE SEGURIDAD CLÍNICA — ANTES DE SESIÓN
+
+Paciente identificado correctamente: Sí / No
+Indicación revisada: Sí / No
+Cambios clínicos desde la última sesión: Sí / No
+Contraindicaciones revisadas: Sí / No
+Consentimiento informado disponible: Sí / No
+Zona anatómica confirmada: Sí / No
+Parámetros previstos revisados: Sí / No
+Tolerancia de sesión anterior revisada: Sí / No
+Plan de seguimiento definido: Sí / No
+Incidencias registradas: Sí / No
+
+Observaciones:
+
+Decisión: realizar sesión / modificar plan / posponer / derivar
