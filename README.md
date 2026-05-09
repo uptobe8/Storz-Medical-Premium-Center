@@ -1,2 +1,6 @@
-# Storz-Medical-Premium-Center
-Centro digital premium para médicos, dirección clínica e inversores.
+# STORZ Medical Premium Center
+
+Plataforma HTML premium preparada para GitHub Pages.
+
+URL prevista:
+https://uptobe8.github.io/Storz-Medical-Premium-Center/
